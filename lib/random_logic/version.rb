@@ -1,0 +1,3 @@
+module RandomLogic
+  VERSION = "0.1.0"
+end
