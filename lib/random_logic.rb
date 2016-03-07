@@ -2,9 +2,6 @@ require "random_logic/version"
 
 module RandomLogic
 
-  def self.name
-    "RandomLogin"
-  end
   # Inverse value
   def self.inverse(value)
     1.0 - value
